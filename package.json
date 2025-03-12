@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "astro": "^5.4.3",
+    "decap-cms": "^3.6.2",
     "sass": "^1.85.1"
   }
 }
