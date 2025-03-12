@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
-  branch: main # or your default branch
+  branch: main # Or your default branch
+  base_url: "/astro-test" # Your repository name
 media_folder: public/img
 public_folder: /img
 collections:
